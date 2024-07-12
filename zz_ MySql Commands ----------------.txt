@@ -1,0 +1,10 @@
+MYSQL COMMANDS THAT HAVE BEEN USED ON MYSQL WORKBENCH:
+
+
+create database CrudFullstack;
+show databases;
+
+use crudfullstack;
+show tables;
+desc tbl_user; /* means: describe tbl_user */
+select * from tbl_user;
